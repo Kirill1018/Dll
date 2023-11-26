@@ -1,0 +1,6 @@
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\bin\Debug\DLL.dll
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\bin\Debug\DLL.pdb
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\obj\Debug\DLL.dll
+\\Keenetic-9922\внешний диск\системное программирование\DLL\DLL\obj\Debug\DLL.pdb

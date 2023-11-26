@@ -1,0 +1,11 @@
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\bin\Debug\App.exe.config
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\bin\Debug\App.exe
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\bin\Debug\App.pdb
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.csproj.AssemblyReference.cache
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.csproj.SuggestedBindingRedirects.cache
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.exe
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.pdb
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\bin\Debug\DLL.dll
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\bin\Debug\DLL.pdb
+\\Keenetic-9922\внешний диск\системное программирование\DLL\App\obj\Debug\App.csproj.CopyComplete
